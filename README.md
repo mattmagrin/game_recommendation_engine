@@ -1,5 +1,5 @@
 # game_recommendation_engine
-Built to help gamers maximize hours of fun and save on new purchases
+Built to help a future data scientist intern maximize hours of fun and save money on new purchases
 
 
 ## Project Overview
