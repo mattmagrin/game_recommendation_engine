@@ -4,6 +4,8 @@ Built to help gamers maximize hours of fun and save money on new purchases
 • Want to use the deployed model v1.0? **Click here ->**
 [<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>](https://recomendacaojogosb.herokuapp.com/)
 
+-----
+
 ## Project Overview
 
 * **Understanding the root cause behind the solution**  A relevant part of the gaming market resides in Brazil, where thousands of fans face high direct conversion values from US Dollars to Brazilian Real, especially on AAA titles. Therefore, it is safe to say that the **average Brazilian has no money to spend on games that will not be converted into hours of fun.**
@@ -14,6 +16,7 @@ Built to help gamers maximize hours of fun and save money on new purchases
 
 * To do this, we went through several steps: scraping, data processing, modeling, optimization, until reaching the final solution that was hosted on heroku, helping me a lot to decide which games to buy.
 
+-----
 
 ## How was this solution developed?
 1. First, I formulated the problem and looked for the best site to extract information and carry out my project. The page chosen was [Metacritic](https://www.metacritic.com/), which has a lot of information about thousands of games on all platforms, in addition to a vast amount of reviews made by experts and members of its community;
