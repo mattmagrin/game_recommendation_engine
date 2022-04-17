@@ -8,7 +8,7 @@ Built to help gamers maximize hours of fun and save money on new purchases
 
 ## Project Overview 🎯
 
-* **Understanding the root cause behind the solution:**  A relevant part of the gaming market resides in Brazil, where thousands of fans face high direct conversion values from US Dollars to Brazilian Real, especially on AAA titles. Therefore, it is safe to say that the **average Brazilian has no money to spend on games that will not be converted into hours of fun.**
+* **Understanding the root cause behind the solution:**  A relevant part of the gaming market resides in developing countries, where thousands of fans face high direct conversion values from US Dollars, especially on AAA titles. Therefore, it is safe to say that the **average Brazilian has no money to spend on games that will not be converted into hours of fun.**
 
 ![GIF](https://s7.gifyu.com/images/ezgif.com-gif-maker8765646b5bd8d8cb.gif)
 
