@@ -22,7 +22,7 @@ Built to help gamers maximize hours of fun and save money on new purchases
 -----
 
 ## How was this solution developed? ✔
-
+### Each step has a detailed notebook with explanations, just click on the links below
 1. First, I formulated the problem and looked for the best site to extract information and carry out my project. The page chosen was [Metacritic](https://www.metacritic.com/), which has a lot of information about thousands of games on all platforms, in addition to a vast amount of reviews made by experts and members of its community;
 
 
