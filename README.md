@@ -26,19 +26,19 @@ Built to help gamers maximize hours of fun and save money on new purchases
 1. First, I formulated the problem and looked for the best site to extract information and carry out my project. The page chosen was [Metacritic](https://www.metacritic.com/), which has a lot of information about thousands of games on all platforms, in addition to a vast amount of reviews made by experts and members of its community;
 
 
-2. With the chosen site, I created a Web Scraper divided into two stages: the [site search data collector](https://github.com/mattmagrin/game_recommendation_engine/blob/main/Extraction%20and%20modeling/1_collector_search.ipynb), which was responsible for listing all games on each platform, and the [data collector for each game found](https://github.com/mattmagrin/game_recommendation_engine/blob/main/Extraction%20and%20modeling/2_data_collection_games.ipynb). The second part demanded more efforts because it had a lot of information on the page;
+2. With the chosen site, I created a Web Scraper divided into two stages: the [site search data collector](https://github.com/mattmagrin/game_recommendation_engine/blob/main/notebooks/1_collector_search.ipynb), which was responsible for listing all games on each platform, and the [data collector for each game found](https://github.com/mattmagrin/game_recommendation_engine/blob/main/notebooks/2_data_collection_games.ipynb). The second part demanded more efforts because it had a lot of information on the page;
 
 
-3. After collecting the raw data, I processed it to create a [consumable dataset to train the machine learning models I would use](https://github.com/mattmagrin/game_recommendation_engine/blob/main/Extraction%20and%20modeling/3_data_treatment%20.ipynb);
+3. After collecting the raw data, I processed it to create a [consumable dataset to train the machine learning models I would use](https://github.com/mattmagrin/game_recommendation_engine/blob/main/notebooks/3_data_treatment%20.ipynb);
 
 
-4. To do the modeling, the labeling was done manually, seeking to balance the number of positive and negative examples. In order to do this in an optimized way, reducing time and resources, [the Active Learning methodology was used, in which some classification models were also trained and their performance evaluated](https://github.com/mattmagrin/game_recommendation_engine/blob/main/Extraction%20and%20modeling/4_modeling___active_learning.ipynb) 
+4. To do the modeling, the labeling was done manually, seeking to balance the number of positive and negative examples. In order to do this in an optimized way, reducing time and resources, [the Active Learning methodology was used, in which some classification models were also trained and their performance evaluated](https://github.com/mattmagrin/game_recommendation_engine/blob/main/notebooks/4_modeling___active_learning.ipynb) 
 
 
 5. I chose to release [v1.0 of the solution with the help of streamlit on heroku](https://recomendacaojogosb.herokuapp.com/).
 
 
-6. After the first version i continued studying, learned the basics about k folds and Bayesian optimization and decided to try to apply it. [In this additional step, I created two more models, Random Forest and LightGBM, optimizing their hyperparameters with bayes](https://github.com/mattmagrin/game_recommendation_engine/blob/main/Extraction%20and%20modeling/5_bayesian_optimization_w_kfold.ipynb) to perform a more robust classification, and merged their results using an ensemble between them;
+6. After the first version i continued studying, learned the basics about k folds and Bayesian optimization and decided to try to apply it. [In this additional step, I created two more models, Random Forest and LightGBM, optimizing their hyperparameters with bayes](https://github.com/mattmagrin/game_recommendation_engine/blob/main/notebooks/5_bayesian_optimization_w_kfold.ipynb) to perform a more robust classification, and merged their results using an ensemble between them;
 
 -----
 
