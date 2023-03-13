@@ -1,9 +1,6 @@
 # game_recommendation_engine
 Built to help gamers maximize hours of fun and save money on new purchases
 
-• Want to use the deployed model v1.0? **Click here ->**
-[<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>](https://recomendacaojogosb.herokuapp.com/)
-
 -----
 
 ## Project Overview 🎯
